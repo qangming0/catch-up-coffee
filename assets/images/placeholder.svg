@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <rect width="900" height="900" fill="#f5efe6"/>
+  <rect x="55" y="55" width="790" height="790" rx="36" fill="none" stroke="#b98c63" stroke-width="4" stroke-dasharray="18 18"/>
+  <circle cx="450" cy="365" r="78" fill="#d7c1aa"/>
+  <path d="M240 630c72-108 120-146 164-116 48 33 85 128 146 76 38-33 67-86 113-65 37 17 71 70 97 105" fill="none" stroke="#8a6040" stroke-width="18" stroke-linecap="round"/>
+  <text x="450" y="750" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#4d3728">Ảnh sẽ được chèn sau</text>
+</svg>
